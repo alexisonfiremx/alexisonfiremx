@@ -9,13 +9,12 @@
 
 - 👯 I’m looking to collaborate on **projects to further advance my skills**
 
-- Know about my experiences (english) [https://drive.google.com/file/d/1ihhTJnE7mD3a5DggH7Inu-EvGmVW615G/view?usp=sharing](https://drive.google.com/file/d/1ihhTJnE7mD3a5DggH7Inu-EvGmVW615G/view?usp=sharing)
+- Know about my experiences  [english](https://drive.google.com/file/d/1ihhTJnE7mD3a5DggH7Inu-EvGmVW615G/view?usp=sharing)
+- Conoce sobre mis experiencias [español](https://drive.google.com/file/d/1zXXoXt538xF0gbWtKYSXyjz4L5BXvlF2/view?usp=sharing)
 
 - 💬 Ask me about **React, Redux, Express, PostreSQL**
 
 - 📫 How to reach me **ing_herrera@outlook.com**
-
-- Know about my experiences (spanish) [https://drive.google.com/file/d/1zXXoXt538xF0gbWtKYSXyjz4L5BXvlF2/view?usp=sharing](https://drive.google.com/file/d/1zXXoXt538xF0gbWtKYSXyjz4L5BXvlF2/view?usp=sharing)
 
 - ⚡ Fun fact **I love pizza 🍕 and avocados 🥑**
 
