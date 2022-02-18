@@ -1,6 +1,6 @@
-![MasterHead](https://res.cloudinary.com/djbiam1gm/image/upload/v1645161194/banner_1_ofisb5.png)
+![MasterHead](https://res.cloudinary.com/djbiam1gm/image/upload/v1645162999/banner_2_vgavbb.png)
 <h1 align="center">Hello there 👋, I'm Marcos Herrera</h1>
-<h3 align="center">A passionate full stack developer from México</h3>
+<h3 align="center">“No estudio por saber más, sino por ignorar menos”: Sor Juana Inés de la Cruz</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611c960bda68ba399fe79415625ffef6b8a455298c8&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [Rescue Pets project 🐾](https://github.com/Luciano-Benitez/RESCUE-PETS-APP)
